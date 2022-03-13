@@ -22,6 +22,8 @@ namespace ManagementSoftware
             Display1 display1 = new Display1();
             display1.Show();
             this.Hide();
+            ///////////
+            ///sahk
         }
 
         private void X_dis2_Click(object sender, EventArgs e)
