@@ -250,6 +250,9 @@
     <EmbeddedResource Include="Admin_ST.resx">
       <DependentUpon>Admin_ST.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Admin_TC.resx">
+      <DependentUpon>Admin_TC.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Display2.resx">
       <DependentUpon>Display2.cs</DependentUpon>
     </EmbeddedResource>
@@ -267,6 +270,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="manage.resx">
+      <DependentUpon>manage.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
